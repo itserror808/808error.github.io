@@ -1,0 +1,12 @@
+.icon i{
+    outline:0;
+    border: 0;
+    transition: transform(0.2s);
+  }
+  .icon:hover i {
+    transform: scale(1.3);
+  }
+  
+  .icon:active i {
+    transform: scale(0.8);
+  }
